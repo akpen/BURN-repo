@@ -1,2 +1,2 @@
 # BURN-repo
-BURN Project Repo
+BURN Project Repository
